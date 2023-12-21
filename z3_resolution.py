@@ -190,8 +190,8 @@ def detection_invariance_cas_de_test4_2():
     else:
         print("invariant non valide ")
 
-detection_invariance_cas_de_test4_2()
 
+detection_invariance_cas_de_test4_2()
 
 
 
